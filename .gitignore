@@ -1,0 +1,7 @@
+server_log.txt
+*.amx
+*.ini
+*.amx.prof
+crashinfo.txt
+*.xml
+samp.ban
