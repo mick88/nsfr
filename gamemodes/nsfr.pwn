@@ -4,7 +4,6 @@
 */
 
 #include <a_samp>
-#undef MAX_PLAYERS
 
 #pragma tabsize 0
 #pragma dynamic 5120
@@ -15,7 +14,6 @@
 
 #define MAX_LIST_ITEMS      50
 #define MAX_CMD 			32
-#define MAX_PLAYERS 		64
 #define MSG_SIZE 			128
 #define MAX_PLAYER_NAME_EX 	(MAX_PLAYER_NAME+6)
 #define MAX_NAME            16
