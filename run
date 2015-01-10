@@ -1,0 +1,7 @@
+#!/bin/bash
+# Builds scripts and runs sa-mp server
+if sh/buildgm.sh
+then
+	rm server_log.txt
+	samp-server.exe
+fi
