@@ -5,3 +5,4 @@ server_log.txt
 crashinfo.txt
 *.xml
 samp.ban
+*.ini
